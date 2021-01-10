@@ -1,0 +1,20 @@
+.header{
+    margin-top: 20px;
+    margin-left: 20%;
+}
+.header .btnExport{
+    background-color: #fa7268;
+    border-radius: 15px;
+    border: none;
+    color: #fff;
+    width: 16%;
+    font-size: 9px;
+    padding: 3px;
+}
+
+table img{
+    width:23px;
+    height:23px;
+    border-radius:50%;
+    margin-right:5px;
+}

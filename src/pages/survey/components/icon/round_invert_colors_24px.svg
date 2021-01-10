@@ -1,0 +1,15 @@
+<svg id="round-invert_colors-24px" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        fill: #fd6969;
+      }
+    </style>
+  </defs>
+  <path id="Path_303" data-name="Path 303" class="cls-1" d="M24,0H0V24H24Z"/>
+  <path id="Path_304" data-name="Path 304" class="cls-2" d="M6.34,7.93a8,8,0,1,0,11.32,0L12.71,2.98a1,1,0,0,0-1.41,0ZM12,19.59A6,6,0,0,1,7.76,9.35L12,5.1Z" transform="translate(0 0)"/>
+</svg>

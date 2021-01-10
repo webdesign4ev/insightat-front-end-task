@@ -1,0 +1,81 @@
+.home {
+    padding-top: 4.5rem;
+    padding-bottom:  3rem;
+    margin-left: 20%;
+}
+.home__background__img {
+    position: absolute;
+    top: 0;
+    right: 0;
+    z-index: -1;
+}
+.home__wrapper {
+    overflow-x: hidden;
+    padding-top: 3%;
+}
+.home__footer {
+    position: relative;
+    height: 3vh;
+}
+.home .row {
+    margin-right: 0 !important;
+    margin-left: 0 !important;
+}
+.home .template {
+    position: relative;
+}
+.home .template__new__button {
+    background-color: #fa7268;
+    padding: 0.5rem;
+    color: #767680;
+    font-size: 0.75rem;
+    border-radius: 1rem;
+    display: inline;
+    cursor: pointer;
+}
+.home .template__new__button > span {
+    color: white;
+    background-color: #fa7268;
+    padding: 0.3rem;
+    font-size: 0.625rem;
+    border-radius: 1rem;
+    padding: 4px 10px 4px 10px;
+    margin-right: 0.5rem;
+}
+.home .template__new__button > i {
+    margin-left: 0.7rem;
+}
+.home .template__text {
+    margin-top: 1rem;
+    font-size: 3rem;
+}
+.home .template__drag__drop {
+    width: 1000px;
+}
+.home .template__signup__free {
+    margin-top: 3rem;
+    font-size: 0.875rem;
+    font-weight: 300;
+}
+.home .template__signup__free .btn-sign-up-free {
+    font-size: 0.875rem;
+    background-color: #3f82c7;
+    border: solid 1px #3f82c7;
+    border-radius: 1.5rem;
+    padding: 0.575rem 1.5rem;
+    color: white;
+    position: relative;
+    margin-right: 40px;
+}
+.home .template__signup__free .btn-sign-up-free::after {
+    position: absolute;
+    content: ' ';
+    background-color: #b4b4bf;
+    height: 35px;
+    width: 1px;
+    right: -25px;
+    top: 3px;
+}
+.home .template__signup__free > span {
+    color: #b4b4bf;
+}

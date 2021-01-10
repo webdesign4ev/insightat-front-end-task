@@ -1,0 +1,41 @@
+.privacy {
+    padding-top: 5% !important;
+    width: 58%;
+}
+.privacy h1 {
+    font-size: 2rem;
+    font-weight: 500;
+    margin-bottom: 4rem;
+    margin-top: 5rem;
+    color:#333340;
+}
+.privacy h2 {
+    font-size: 1.125rem;
+    font-weight: 400;
+    text-transform: uppercase;
+    margin-top: 2rem;
+    color:#333340;
+}
+.privacy h3 {
+    font-size: 1.125rem;
+    font-weight: 500;
+    text-transform: uppercase;
+    color:#333340;
+    margin-top: 1.5rem;
+}
+.privacy span {
+    font-size: 1.125rem;
+    color:#333340;
+    font-weight: 500;
+}
+.privacy p {
+    margin-top: 1rem;
+    margin-bottom: 2rem;
+    font-size: 1.125rem;
+}
+.privacy__footer {
+    position: relative;
+    height: 10vh;
+    color:#333340;
+}
+

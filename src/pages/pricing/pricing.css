@@ -1,0 +1,114 @@
+.pricing { 
+    padding: 3rem; 
+  }
+    .pricing__title {
+      text-align: center;
+      color: #333340;
+      margin-bottom: 2.5rem;
+    }
+      .pricing__title h3 {
+        font-size: 2rem;
+        font-weight: 400;
+      }
+    
+  
+      .pricing__plans-item {
+      padding: 0;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+      border-radius: 5px;
+      }
+      .pricing__plans-item__select-plan {
+        text-align: center;
+        border-top: 1px solid #dedee3;
+        padding-top: 1.5rem;
+      }
+        .pricing__plans-item__select-plan button {
+          color: white;
+          background: #3f82c7;
+          border-radius: 50px;
+          border: 1px solid #3f82c7;
+          font-weight: 500;
+          width: 75%;
+          margin-bottom: 15px;
+        }
+      
+  
+      .pricing__plans-item__content {
+        padding: 1rem 1rem 3rem 1rem;
+      }
+        .pricing__plans-item__content__header {
+          margin-top: 1.5rem;
+          border-bottom: 1px solid #dedee3;
+      }
+          .pricing__plans-item__content__header h4 {
+            font-size: 0.875rem;
+            color: #767680;
+            text-transform: uppercase;
+          }
+  
+          .pricing__plans-item__content__header h5 {
+            font-size: 0.875rem;
+            color: white;
+            background: #22d6a5;
+            border: 1px solid #22d6a5;
+            border-radius: 50px;
+            padding: 0.2rem 0.5rem 0.2rem 0.5rem;
+          }
+  
+          .pricing__plans-item__content__header .pricing__cash-symbol {
+            font-size: 1.5rem;
+            color: #333340;
+            margin-bottom: 0;
+          }
+  
+          .pricing__plans-item__content__header .pricing__amount {
+            font-size: 4rem;
+            color: #333340;
+            margin-bottom: 0;
+          }
+  
+          .pricing__plans-item__content__header .pricing__period {
+            display: flex;
+            align-items: flex-end;
+            font-size: 1.5rem;
+            color:  #767680;
+            margin-bottom: 1rem;
+          }
+        
+   
+              .pricing__plans-item__content__body img {
+            width: 20px;
+            height: 20px;
+            margin-top: 1.5rem;
+          }
+  
+          .pricing__plans-item__content__body .item {
+            font-size: 0.875rem;
+            color: #333340;
+            margin-left: 10px;
+            margin-bottom: 0px;
+            margin-top: 1.5rem;
+          }
+        
+      
+     .pricing__subtitle span {
+      color: #fa7268;
+      margin-left: 10px;
+      cursor: pointer;
+    }
+  
+    .pricing__footer {
+      position: relative;
+      height: 5vh;
+      margin-bottom: 2rem;
+    }
+   
+    @media screen and (max-width: 600px) {
+ 
+      .pricing__plans-item__select-plan button { 
+        width:90%; 
+      }
+       
+    }

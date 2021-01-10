@@ -1,0 +1,56 @@
+.navbar {
+    padding: 0px;
+}
+.navbar-border {
+    box-shadow: 0 0.5px #767680;
+}
+.account {
+    min-height: 100vh;
+    background-color: #fafafa;
+    padding-top: 6rem;
+}
+.account__wrapper {
+    width: 50%;
+    padding: 3rem;
+    border-radius: 5px;
+    box-shadow: 0 3px 6px rgba(0, 0, 0, 0.1);
+    background-color: white;
+    margin-left: auto;
+    margin-right: auto;
+}
+.account__item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 1rem;
+}
+.account__item input {
+    width: 50%;
+    border: 1px solid #707070;
+    border-radius: 2px;
+    font-size: 1rem;
+    color: #333340;
+}
+.account__item label {
+    font-weight: 600;
+}
+.account__error {
+    text-align: center;
+    color: red;
+}
+.account__submit {
+    margin-top: 2rem;
+    padding: 0.5rem 1.5rem 0.5rem 1.5rem;
+    color: white;
+    background: #fa7268;
+    border: 1px solid #fa7268;
+    border-radius: 50px;
+}
+
+@media screen and (max-width: 600px) {
+  
+    .account__wrapper {
+        width: 90%; 
+    }
+     
+  }

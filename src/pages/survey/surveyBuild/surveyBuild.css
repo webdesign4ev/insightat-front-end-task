@@ -1,0 +1,175 @@
+.build-content-sec{
+    background-color: #f3f3f5;
+    width: 100%;
+    height: 200vh;
+    position: relative;
+    margin-top: -16px;
+  }
+  .build-content-detailes{
+    width: 80%;
+    margin:20px 100px 0px 100px;
+  }
+  
+  .build-user-data{
+    display: flex;
+    margin-bottom: 5px;
+  }
+  .build-welcomebox{
+    background-color: #71E6C6;
+    width: 64px;
+    height: 54px;
+    border-radius: 3px;
+    text-align: center;
+  }
+  .build-welcomebox span{
+    font-size: 20px;
+  }
+  .build-welcomebox {
+    padding-top: 1% !important;
+  }
+  
+  .build-user-data-input{
+  width: 100%;
+  height: 54px;
+  background-color: #fff;
+  text-align: left;
+  border-radius: 3px;
+  display: flex;
+  justify-content: space-between;
+  }
+  
+  .build-user-data-input p{
+    line-height: 3;
+    margin-left: 8px;
+    text-transform: unset;
+  
+  }
+  .build-user-data-input  .build-iconbox img{
+  margin:10px
+  }
+  .build-numberBox{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: #fff;
+    width: 64px;
+    height: 54px;
+    border-right: 1px solid #f3f3f5;
+    border-radius: 3px;
+  }
+  
+  .build-information{
+    width: 100%;
+    background-color: #fff;
+    /* height: 200px; */
+  }
+  .build-user-data-option{
+    width: 100%;
+  height: auto;
+  background-color: #fff;
+  border-radius: 3px;
+  display: flex;
+   justify-content:flex-end;
+  border-bottom: 2px solid #f3f3f5;
+  }
+  .build-activeOption{
+   width: 25%; 
+   overflow: hidden;
+   margin-top: 16px;
+  }
+  .build-activeOption span{
+    font-size: 16px;
+  }
+  
+  .build-color-section{
+    background-color: #fff;
+    padding: 40px;
+  }
+  
+  .build-color-header {
+    margin-top: 0px;
+    display: flex;
+  }
+  .build-color-header {
+    font-size: 14px;
+    margin-right: 10px;
+  }
+  .build-color-radio-header{
+    margin-bottom: 20px;
+    margin-left: 21px;
+  }
+  .build-color-header-number{
+  font-size: 18px;
+  margin-right: 20px;
+  margin-left: 30px;
+  }
+  .build-color-header-text {
+    background-color: #f3f3f5;
+    width: 50%;
+    padding: 12px 0;
+    border-radius: 3px;
+    margin-left: 10px;
+    font-weight: bold;
+  }
+  .build-color-radio-header-text{
+    width: 51%;
+  }
+  .build-color-header-text span{
+    margin-left: 20px;
+    text-transform: none;
+  }
+  .build-redio-color{
+    display: flex;
+    margin-left: 34px;
+  }
+  .build-color-header img {
+     width: 50%;
+     height: 50%;
+     margin-left: 10px;
+  }
+  
+  .build-color-line{
+    margin-bottom: 20px;
+  }
+  
+  .build-line-color{
+    border-top: 2px solid #e5e5e9;
+    width: 100%;
+    background-color: #fff;
+    margin-bottom: 10px;
+    text-align: right;
+  }
+  .build-cancel-btn,.build-save-btn{
+    border-radius: 30px;
+    background-color: #fff;
+    padding: 4px 19px;
+      margin: 20px  10px;
+    outline: none;
+  }
+  .build-save-btn{
+    background-color: #22D6A5;
+    border:2px solid  #22D6A5;
+    color: #fff;
+  }
+  .build-thanksbox{
+    background-color: #70AFE6;
+  }
+  .build-thanksbox span{
+    font-size: 20px;
+  
+  }
+  /* Style the buttons that are used to open and close the accordion panel */
+  .build-accordion {
+    transition: 0.4s;
+  }
+  
+  
+  /* Style the accordion panel. Note: hidden by default */
+  .build-panel.collapse {
+    padding: 0 18px;
+    background-color: white;
+    overflow: hidden;
+    margin-bottom: 10px;
+  }
+  .build-panel.collapse p {
+    margin-left: 44px;
+  }

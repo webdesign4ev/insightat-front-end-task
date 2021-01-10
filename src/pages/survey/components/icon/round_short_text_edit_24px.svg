@@ -1,0 +1,15 @@
+<svg id="round-short_text_edit-24px" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 22">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        fill: #767680;
+      }
+    </style>
+  </defs>
+  <path id="Path_177" data-name="Path 177" class="cls-1" d="M0,0H22V22H0Z"/>
+  <path id="Path_178" data-name="Path 178" class="cls-2" d="M17.75,14.5H4.917a.917.917,0,0,1,0-1.833H17.75a.917.917,0,0,1,0,1.833Zm-5.5-3.667H4.917A.917.917,0,1,1,4.917,9H12.25a.917.917,0,0,1,0,1.833Zm5.5,0H15A.917.917,0,0,1,15,9h2.75a.917.917,0,0,1,0,1.833Z" transform="translate(-0.333 -0.75)"/>
+</svg>

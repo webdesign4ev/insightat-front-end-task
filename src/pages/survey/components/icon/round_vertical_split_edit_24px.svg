@@ -1,0 +1,19 @@
+<svg id="round-vertical_split_edit-24px" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 22">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        fill: #767680;
+      }
+    </style>
+  </defs>
+  <path id="Path_188" data-name="Path 188" class="cls-1" d="M0,0H22V22H0Z"/>
+  <path id="Path_189" data-name="Path 189" class="cls-2" d="M10.417,14.833h8.708a.917.917,0,1,0,0-1.833H10.417a.917.917,0,1,0,0,1.833Z" transform="translate(-0.792 -1.083)"/>
+  <path id="Path_190" data-name="Path 190" class="cls-2" d="M10.417,18.833h8.708a.917.917,0,1,0,0-1.833H10.417a.917.917,0,1,0,0,1.833Z" transform="translate(-0.792 -1.417)"/>
+  <path id="Path_191" data-name="Path 191" class="cls-2" d="M10.417,10.833h8.708a.917.917,0,1,0,0-1.833H10.417a.917.917,0,1,0,0,1.833Z" transform="translate(-0.792 -0.75)"/>
+  <path id="Path_192" data-name="Path 192" class="cls-2" d="M9.5,5.917a.917.917,0,0,0,.917.917h8.708a.917.917,0,1,0,0-1.833H10.417A.917.917,0,0,0,9.5,5.917Z" transform="translate(-0.792 -0.417)"/>
+  <rect id="Rectangle_206" data-name="Rectangle 206" class="cls-2" width="4.125" height="12.833" rx="1" transform="translate(2.75 4.583)"/>
+</svg>

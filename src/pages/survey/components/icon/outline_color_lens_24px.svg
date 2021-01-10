@@ -1,0 +1,8 @@
+<svg id="outline-color_lens-24px" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <path id="Path_293" data-name="Path 293" d="M0,0H24V24H0Z" fill="none"/>
+  <path id="Path_294" data-name="Path 294" d="M12,22A10,10,0,1,1,12,2c5.51,0,10,4.04,10,9a6,6,0,0,1-6,6H14.23a.5.5,0,0,0-.5.5.528.528,0,0,0,.13.33,2.544,2.544,0,0,1,.64,1.67A2.5,2.5,0,0,1,12,22ZM12,4a8,8,0,1,0,0,16,.5.5,0,0,0,.5-.5.541.541,0,0,0-.14-.35A2.493,2.493,0,0,1,14.23,15H16a4,4,0,0,0,4-4C20,7.14,16.41,4,12,4Z" transform="translate(0 0)" fill="#b4b4bf"/>
+  <circle id="Ellipse_54" data-name="Ellipse 54" cx="1.5" cy="1.5" r="1.5" transform="translate(5 10)" fill="#b4b4bf"/>
+  <circle id="Ellipse_55" data-name="Ellipse 55" cx="1.5" cy="1.5" r="1.5" transform="translate(8 6)" fill="#b4b4bf"/>
+  <circle id="Ellipse_56" data-name="Ellipse 56" cx="1.5" cy="1.5" r="1.5" transform="translate(13 6)" fill="#b4b4bf"/>
+  <circle id="Ellipse_57" data-name="Ellipse 57" cx="1.5" cy="1.5" r="1.5" transform="translate(16 10)" fill="#b4b4bf"/>
+</svg>

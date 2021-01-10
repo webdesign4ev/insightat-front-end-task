@@ -1,0 +1,53 @@
+.header{
+    padding: 2% 5%;
+    width: 80%;
+    padding-bottom: 3px;
+    border-bottom: 1px solid rgb(231, 231, 231);
+}
+.header img{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    margin-right: 15px;
+}
+
+.header p{
+    color: #504c48;
+    line-height: 0;
+    font-size: 10px;
+}
+
+.header .btnStyle{
+    border-radius: 15px;
+    border: 1px solid #ccc;
+    background-color: #fa7268;
+    color: #fff;
+    width: 10%;
+    font-size: 9px;
+    margin-top:30px;
+    margin-right: 4px;
+} 
+
+.userData{
+    padding: 2% 5%;
+}
+
+.userData span{
+    margin-right: 10%;
+}
+
+.userData p{
+    border-bottom: 1px solid rgb(231, 231, 231);
+    font-size: 14px;
+    color: #504c48;
+    padding-bottom: 3px;
+}
+
+td{
+    color: #504c48;
+}
+td,th{
+    border: none;
+    font-size: 12px;
+}
+

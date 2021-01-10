@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="33" height="18" viewBox="0 0 33 18">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="33" height="18" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="pill_inactive" clip-path="url(#clip-path)">
+    <rect id="Input_" data-name="Input " width="33" height="18" rx="9" fill="#b4b4bf"/>
+    <rect id="Input_2" data-name="Input " width="12" height="12" rx="6" transform="translate(3 3)" fill="#fff"/>
+  </g>
+</svg>
